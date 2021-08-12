@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghavk1
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning Node js to add its properties in my web development projects , also i am learning DS- Algo to brush up my programming skills
+- 🌱 I’m currently learning Android development , also i am learning DS- Algo to brush up my programming skills
 - 💞️ I’m looking to collaborate on coding projects which can bring change in society.
 - 📫 How to reach me : try dropping a message on git on or you can try my instagram: raghav_r_
 
