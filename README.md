@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @raghavk1
-- 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning Android development , also i am learning DS- Algo to brush up my programming skills
-- 💞️ I’m looking to collaborate on coding projects which can bring change in society.
-- 📫 How to reach me : try dropping a message on git on or you can try my instagram: raghav_r_
+👋 Hi there, I'm Raghav Khanna (@raghavk1)
+
+👨‍💻 **Software Developer & Senior Engineer** at **MotherSon Group**
+
+💡 Passionate about coding, programming, and building innovative solutions.
+
+🌱 Always learning and exploring new technologies.
+
+📫 **Reach out to me:** [Raghavkhanna0011@gmail.com](mailto:Raghavkhanna0011@gmail.com)
 
 <!---
 raghavk1/raghavk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
